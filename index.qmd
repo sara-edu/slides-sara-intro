@@ -1,6 +1,101 @@
 ---
-title: "SARA"
-format: revealjs
+pagetitle: "SARA"
+format: 
+  revealjs:
+    #slide-number: false
+    #logo: logo.png
+    theme: [default, sara-style.scss]
+    progress: false
+    menu: false
+
+
 ---
 
-# SARA
+# {background-color="#003366"}
+
+[SARA]{.r-fit-text}
+
+##  {background-image="https://images.unsplash.com/photo-1615715035868-fc94bd5ffdac?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="cover"}
+
+::: centering
+::: columns
+::: {.column width="27.5%"}
+<br>
+
+![Krantijyoti [Sa]{.theme-red}vitribai Phule<br>🌺 🙏🏽 🌼](images/savitrimai.png)
+:::
+
+::: {.column width="45%"}
+<br> <br>
+
+![](logo.png){width="2.75in"}
+:::
+
+::: {.column width="27.5%"}
+<br>
+
+![Mata [Ra]{.theme-red}mabai Ambedkar<br>🌺 🙏🏽 🌼](images/ramai.png)
+:::
+:::
+
+[**Savitribai Ramabai Institute of Data Science**]{.r-fit-text .theme-navy-blue}
+
+:::
+
+## [What is SARA?]{.r-fit-text .theme-white} {background-image="images/banner.png" background-position="top -700px right 100px" background-size=contain background-color="#99CC99"}
+
+<br>
+
+> [Est. April 2023 <br >Charitable Education Trust^[Kindly suggest us a good advocate to complete the Trust registration in Delhi.] <br> By Dr. Ajay Koli & Dr. Kiran Koli]{.r-fit-text .theme-gray}
+
+
+## [Why SARA?]{.r-fit-text .theme-white} {background-image="images/banner.png" background-position="top -650px right 100px" background-size=contain background-color="#6699CC"}
+
+<br>
+
+> [To enhance the representation of <br> under-privileged communities <br> in the field of data science.]{.r-fit-text .theme-gray}
+
+## [How SARA works?]{.r-fit-text .theme-white} {background-image="images/banner.png" background-position="top -750px right 100px" background-size=contain background-color="#FFCC66"}
+
+[We offer FREE courses:]{.r-fit-text}
+
+. . .
+
+> [Data Science,
+  English<br>
+  Computer Skills, and<br>
+  Research.]{.r-fit-text .theme-gray}
+  
+## [Help SARA]{.r-fit-text .theme-white} {background-image="images/banner.png" background-position="top -700px right 100px" background-size=contain background-color="#FFCC99"}
+
+> [Donate: No amount is small.]{.r-fit-text .theme-gray}
+
+. . .
+
+> [Teach: We cannot pay now.]{.r-fit-text .theme-gray}
+
+. . .
+
+> [Follow: Kindly spread the word.]{.r-fit-text .theme-gray}
+
+## 
+
+##
+
+
+
+> SARA was founded in April 2023 for community-rooted data science education & research.
+
+## What do we do?
+
+> We offer free data science, English, computer skills & research education.
+
+## [Our Dream]{.r-fit-text .theme-white} {background-image="https://images.unsplash.com/photo-1521333774545-10e8a1f2f7e3?q=80&w=1406&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size=cover background-position=center background-color=#003366}
+
+::: centering
+
+![](images/ajay-kiran.jpg){width=45%}
+
+[Introduce Dalit-Bahujan Students<br>to Data Science Education]{.r-fit-text .theme-navy-blue}
+
+:::
