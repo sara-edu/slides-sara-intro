@@ -2,11 +2,11 @@
 pagetitle: "SARA"
 format: 
   revealjs:
-    #slide-number: false
-    #logo: logo.png
+    slide-number: false
+    logo: logo.png
     theme: [default, sara-style.scss]
-    progress: false
-    menu: false
+    progress: true
+    menu: true
 
 
 ---
@@ -28,7 +28,7 @@ format:
 ::: {.column width="45%"}
 <br> <br>
 
-![](logo.png){width="2.75in"}
+![](logo.png){width="3in"}
 :::
 
 ::: {.column width="27.5%"}
@@ -42,60 +42,100 @@ format:
 
 :::
 
-## [What is SARA?]{.r-fit-text .theme-white} {background-image="images/banner.png" background-position="top -700px right 100px" background-size=contain background-color="#99CC99"}
+## [What is SARA?]{.theme-white} {background-image="images/skin.png" background-size=coverf}
 
 <br>
 
-> [Est. April 2023 <br >Charitable Education Trust^[Kindly suggest us a good advocate to complete the Trust registration in Delhi.] <br> By Dr. Ajay Koli & Dr. Kiran Koli]{.r-fit-text .theme-gray}
+:::: {.columns layout-ncol=2 layout-valign="bottom"}
 
+::: {.column width="55%" }
 
-## [Why SARA?]{.r-fit-text .theme-white} {background-image="images/banner.png" background-position="top -650px right 100px" background-size=contain background-color="#6699CC"}
+> Charitable Education Trust,<br>Est. April 2023, Founded By Dr. Ajay Koli & Dr. Kiran Koli.
+
+![Initially, SARA was in Bhiwadi.](images/terra-sara.jpg)
+:::
+
+::: {.column width="45%"}
+
+![Now, SARA is in Sonipat.](images/sara-sonipat.jpg)
+:::
+
+::::
+
+## [Why SARA?]{.theme-white} {background-image="images/green.png" background-size=cover}
 
 <br>
 
-> [To enhance the representation of <br> under-privileged communities <br> in the field of data science.]{.r-fit-text .theme-gray}
+> [To enhance the representation of under-privileged communities in the field of data science.]{.theme-gray}
 
-## [How SARA works?]{.r-fit-text .theme-white} {background-image="images/banner.png" background-position="top -750px right 100px" background-size=contain background-color="#FFCC66"}
+::: {layout-ncol=2}
 
-[We offer FREE courses:]{.r-fit-text}
+![Public Meeting in Haryana.](images/visit-hr.jpg)
 
-. . .
-
-> [Data Science,
-  English<br>
-  Computer Skills, and<br>
-  Research.]{.r-fit-text .theme-gray}
-  
-## [Help SARA]{.r-fit-text .theme-white} {background-image="images/banner.png" background-position="top -700px right 100px" background-size=contain background-color="#FFCC99"}
-
-> [Donate: No amount is small.]{.r-fit-text .theme-gray}
-
-. . .
-
-> [Teach: We cannot pay now.]{.r-fit-text .theme-gray}
-
-. . .
-
-> [Follow: Kindly spread the word.]{.r-fit-text .theme-gray}
-
-## 
-
-##
-
-
-
-> SARA was founded in April 2023 for community-rooted data science education & research.
-
-## What do we do?
-
-> We offer free data science, English, computer skills & research education.
-
-## [Our Dream]{.r-fit-text .theme-white} {background-image="https://images.unsplash.com/photo-1521333774545-10e8a1f2f7e3?q=80&w=1406&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size=cover background-position=center background-color=#003366}
-
-::: centering
-
-![](images/ajay-kiran.jpg){width=45%}
-
-[Introduce Dalit-Bahujan Students<br>to Data Science Education]{.r-fit-text .theme-navy-blue}
+![Public Meeting in Rajasthan.](images/visit-rj.jpg)
 
 :::
+
+## [What does SARA do?]{.theme-white} {background-image="images/silver.png"  background-size=cover}
+
+<br>
+
+> [FREE Courses of Data Science, English, Computers, & Research.]{.theme-gray}
+
+::: {layout-ncol=2 layout-valign="bottom"}
+
+![💙 Our First Batch of Students.](images/class-terra.jpg)
+
+![Our Second Batch Students in Sonipat.](images/class-sonipat.jpeg)
+
+:::
+
+## [Yes, You can Help SARA.]{.theme-white} {background-image="images/brown.png" background-size=cover}
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="60%"}
+> [Become Teacher or Mentor at SARA.]{.theme-white}
+
+> [Follow SARA on Social Media.]{.theme-white}
+
+> [Please Donate, No Amount is Small.]{.theme-white}
+:::
+
+::: {.column width="40%"}
+![[Guru Ravidas Bhawan in Rajasthan.]{.theme-white}](images/guru-ravidas.jpg)
+:::
+
+::::
+
+# {background-image=images/babasaheb.jpg background-size=contain background-position=right background-color=#000}
+
+:::: {.columns .centering}
+
+::: {.column width="55%"}
+[🙏🏽 <br> Thank You<br>Babasaheb]{.r-fit-text .theme-cursive}
+
+<br>
+<br>
+
+
+::: small
+
+{{< fa brands twitter >}} [@sara_institute](https://twitter.com/sara_institute)
+
+{{< fa tv >}} <https://saraedu.netlify.app/>
+
+{{< fa envelope >}} <sara.institute.info@gmail.com>
+
+:::
+
+
+:::
+
+::: {.column width="45%"}
+
+:::
+
+::::
