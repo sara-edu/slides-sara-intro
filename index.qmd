@@ -7,6 +7,7 @@ format:
     theme: [default, sara-style.scss]
     progress: true
     menu: true
+    transition: convex
 
 
 ---
@@ -50,7 +51,7 @@ format:
 
 ::: {.column width="55%" }
 
-> Charitable Education Trust,<br>Est. April 2023, Founded By Dr. Ajay Koli & Dr. Kiran Koli.
+> [Charitable Education Trust,<br>Est. April 2023, Founded By Dr. Ajay Koli & Dr. Kiran Koli.]{.theme-gray}
 
 ![Initially, SARA was in Bhiwadi.](images/terra-sara.jpg)
 :::
@@ -80,11 +81,11 @@ format:
 
 <br>
 
-> [FREE Courses of Data Science, English, Computers, & Research.]{.theme-gray}
+> [[FREE Courses]{.theme-red} of Data Science, English, Computers, & Research.]{.theme-gray}
 
 ::: {layout-ncol=2 layout-valign="bottom"}
 
-![💙 Our First Batch of Students.](images/class-terra.jpg)
+![💙 Our First Batch of Students in Bhiwadi.](images/class-terra.jpg)
 
 ![Our Second Batch Students in Sonipat.](images/class-sonipat.jpeg)
 
@@ -102,10 +103,25 @@ format:
 > [Follow SARA on Social Media.]{.theme-white}
 
 > [Please Donate, No Amount is Small.]{.theme-white}
+
+<br>
+<br>
+<br>
+
+::: {.small .centering .theme-blue}
+
+{{< fa brands twitter >}} [[@sara_institute]{.theme-blue}](https://twitter.com/sara_institute)
+
+{{< fa tv >}} [[https://saraedu.netlify.app/]{.theme-blue}]()
+
+{{< fa envelope >}} [[sara.institute.info@gmail.com]{.theme-blue}]()
+
+:::
+
 :::
 
 ::: {.column width="40%"}
-![[Guru Ravidas Bhawan in Rajasthan.]{.theme-white}](images/guru-ravidas.jpg)
+![[Guru Ravidas Ji Bhawan in Rajasthan.]{.theme-white}](images/guru-ravidas.jpg)
 :::
 
 ::::
@@ -115,22 +131,7 @@ format:
 :::: {.columns .centering}
 
 ::: {.column width="55%"}
-[🙏🏽 <br> Thank You<br>Babasaheb]{.r-fit-text .theme-cursive}
-
-<br>
-<br>
-
-
-::: small
-
-{{< fa brands twitter >}} [@sara_institute](https://twitter.com/sara_institute)
-
-{{< fa tv >}} <https://saraedu.netlify.app/>
-
-{{< fa envelope >}} <sara.institute.info@gmail.com>
-
-:::
-
+[🙏🏽 <br> Thank You<br>Baba Saheb]{.r-fit-text .theme-cursive}
 
 :::
 
