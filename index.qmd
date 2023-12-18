@@ -2,14 +2,12 @@
 pagetitle: "SARA"
 format: 
   revealjs:
-    slide-number: false
+    #slide-number: false
     logo: logo.png
     theme: [default, sara-style.scss]
     progress: true
     menu: true
-    transition: convex
-
-
+    transition: fade
 ---
 
 # {background-color="#003366"}
@@ -91,6 +89,66 @@ format:
 
 :::
 
+## [Benefits of Studying at SARA]{.theme-white} {.scrollable background-image=images/lavender.png background-size=cover}
+
+<br>
+
+::: {.panel-tabset}
+
+### For $12^{th}$ class
+
+- We offer 45 days "Basics of Computer" course to improve the computer friendliness of students from semi-urban and rural regions.
+
+- We offer regular English classes to improve writing, listening & speaking skills.
+
+- We mentor students to get admission in prestigious national and international universities.
+
+### For UG & PG
+
+- Using [R programming language](https://www.r-project.org/) & [GitHub](https://github.com/), we offer various data science courses to teach data visualization, wrangling, statistics, and communication (like creating website using [Quarto](https://quarto.org/)).
+
+- All UG & PG students can also attend our English & Computer courses to improve their basics.
+
+- We can mentor UG & PG students to create an unique online profile to get scholarship for further studies or to get job in industry.
+
+### For PhD Scholars & Faculty {.scrollable}
+
+- Data science plays a crucial role in research across various fields due to its ability to analyze, interpret, and derive insights from large and complex data sets.
+
+- We offer data science, research methodology, and statistics workshop and summer/winter school for PhD scholars and Faculty.
+
+::: {.scrollable}
+
+- Here are some key areas where data science is used in research: 
+  - Healthcare and Medicine  
+  - Social Sciences
+  - Environmental Science
+  - Business and Marketing
+  - Engineering and Technology
+  - Education
+  - Astronomy and Astrophysics
+  - Psychology and Neuroscience
+  - Agriculture
+  - Energy
+  
+:::  
+
+:::
+
+## Interactive Learning {background-color=#000000}
+
+::: {layout-nrow=2 layout-valign="bottom"}
+
+![](images/priya.jpg){width=70%}
+
+![](images/yash.jpg){width=70%}
+
+![](images/krishna.jpg){width=70%}
+
+![](images/aarti.jpg){width=70%}
+
+:::
+
 ## [Yes, You can Help SARA.]{.theme-white} {background-image="images/brown.png" background-size=cover}
 
 <br>
@@ -108,13 +166,15 @@ format:
 <br>
 <br>
 
-::: {.small .centering .theme-blue}
+::: {.small .centering .rainbow-yellow}
 
-{{< fa brands twitter >}} [[@sara_institute]{.theme-blue}](https://twitter.com/sara_institute)
+{{< fa phone >}} [[88868 10879]{.rainbow-yellow}]()
 
-{{< fa tv >}} [[https://saraedu.netlify.app/]{.theme-blue}]()
+{{< fa brands twitter >}} [[@sara_institute]{.rainbow-yellow}](https://twitter.com/sara_institute)
 
-{{< fa envelope >}} [[sara.institute.info@gmail.com]{.theme-blue}]()
+{{< fa tv >}} [[https://saraedu.netlify.app/]{.rainbow-yellow}](https://saraedu.netlify.app/)
+
+{{< fa envelope >}} [[sara.institute.info@gmail.com]{.rainbow-yellow}]()
 
 :::
 
@@ -126,17 +186,19 @@ format:
 
 ::::
 
-# {background-image=images/babasaheb.jpg background-size=contain background-position=right background-color=#000}
+# {background-image=images/donation.png background-size=contain background-position=left background-color=#000}
 
 :::: {.columns .centering}
 
-::: {.column width="55%"}
-[🙏🏽 <br> Thank You<br>Baba Saheb]{.r-fit-text .theme-cursive}
+::: {.column width="40%"}
 
 :::
 
-::: {.column width="45%"}
+::: {.column width="60%"}
 
+[Thank You]{.r-fit-text .theme-cursive}
+
+![](images/babasaheb.jpg){width=60%}
 :::
 
 ::::
