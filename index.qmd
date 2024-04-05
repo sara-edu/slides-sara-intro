@@ -2,43 +2,42 @@
 pagetitle: "SARA"
 format: 
   revealjs:
-    #slide-number: false
+    slide-number: false
     logo: logo.png
     theme: [default, sara-style.scss]
-    progress: true
-    menu: true
+    progress: false
+    menu: false
     transition: fade
 ---
 
-# {background-color="#003366"}
+# {background-color="#000033"}
 
-[SARA]{.r-fit-text}
+[SARA]{.r-fit-text} 
 
 ##  {background-image="https://images.unsplash.com/photo-1615715035868-fc94bd5ffdac?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="cover"}
 
-::: centering
-::: columns
-::: {.column width="27.5%"}
+<br>
+<br>
 <br>
 
-![Krantijyoti [Sa]{.theme-red}vitribai Phule<br>🌺 🙏🏽 🌼](images/savitrimai.png)
+::: centering
+::: columns
+::: {.column width="30%"}
+
+![**Krantijyoti [Sa]{.theme-red}vitribai Phule**<br><br>🌺 🙏🏽 🌼](images/savitrimai.png)
 :::
 
-::: {.column width="45%"}
-<br> <br>
+::: {.column width="40%"}
+<br>
 
 ![](logo.png){width="3in"}
 :::
 
-::: {.column width="27.5%"}
-<br>
+::: {.column width="30%"}
 
-![Mata [Ra]{.theme-red}mabai Ambedkar<br>🌺 🙏🏽 🌼](images/ramai.png)
+![**Mata [Ra]{.theme-red}mabai Ambedkar**<br><br>🌺 🙏🏽 🌼](images/ramai.png)
 :::
 :::
-
-[**Savitribai Ramabai Institute of Data Science**]{.r-fit-text .theme-navy-blue}
-
 :::
 
 ## [What is SARA?]{.theme-white} {background-image="images/skin.png" background-size=coverf}
@@ -47,14 +46,14 @@ format:
 
 :::: {.columns layout-ncol=2 layout-valign="bottom"}
 
-::: {.column width="55%" }
+::: {.column width="60%" }
 
-> [Charitable Education Trust,<br>Est. April 2023, Founded By Dr. Ajay Koli & Dr. Kiran Koli.]{.theme-gray}
+> [April 2023, Charitable Education Trust;<br>Founders: Dr. Ajay Koli & Dr. Kiran Koli.]{.theme-gray .r-fit-text}
 
 ![Initially, SARA was in Bhiwadi.](images/terra-sara.jpg)
 :::
 
-::: {.column width="45%"}
+::: {.column width="40%"}
 
 ![Now, SARA is in Sonipat.](images/sara-sonipat.jpg)
 :::
@@ -65,7 +64,7 @@ format:
 
 <br>
 
-> [To enhance the representation of under-privileged communities in the field of data science.]{.theme-gray}
+> [To enhance the representation of [under-represented communities]{.theme-red} in the field of data science.]{.theme-gray}
 
 ::: {layout-ncol=2}
 
@@ -79,7 +78,7 @@ format:
 
 <br>
 
-> [[FREE Courses]{.theme-red} of Data Science, English, Computers, & Research.]{.theme-gray}
+> [[FREE Courses & Open-Source study material]{.theme-red} of Data Science, English, Computers, & Research.]{.theme-gray}
 
 ::: {layout-ncol=2 layout-valign="bottom"}
 
@@ -89,7 +88,7 @@ format:
 
 :::
 
-## [Benefits of Studying at SARA]{.theme-white} {.scrollable background-image=images/lavender.png background-size=cover}
+## [Benefits of Studying at SARA]{.theme-white} {.scrollable background-image=images/lavender.png background-size=cover} {visibility="hidden"}
 
 <br>
 
@@ -148,6 +147,18 @@ format:
 ![](images/aarti.jpg){width=70%}
 
 :::
+
+## In 2023  {background-image="images/registration.jpeg" background-size="fit" background-color="#000000" background-opacity=0.3}
+
+- We taught a total of [fifty students]{.theme-red} in two different batches.
+
+<br>
+
+- We are now a Government of India, [registered]{.theme-red} Trust.
+
+<br>
+
+- In 2024, ["Digital Dreams"]{.theme-red} will be a new campaign of SARA. 
 
 ## [Yes, You can Help SARA.]{.theme-white} {background-image="images/brown.png" background-size=cover}
 
