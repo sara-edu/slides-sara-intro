@@ -199,6 +199,43 @@ $code-block-bg: #fff;
 .rainbow-indigo {color: #7B20A3;}
 .rainbow-purple {color: #D501FA;}
 
+/* settings for card and columns */
+.card {
+  padding: 2rem;
+  border-top: 8px solid;
+  border-radius: 0.5rem; 
+  box-shadow: 0 1rem 1.5rem -0.5rem rgba(0 50 100 / 0.15);
+  background: $theme-navy-blue;
+  text-align: left;
+  color: white;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.layout-grid {
+  --gap: 0.85rem;
+  display: grid;
+  gap: var(--gap);
+}
+
+@media (min-width: 800px) {
+  .layout-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+.layout-grid > * {
+  flex: 1;
+}
+
+.col {
+  display: grid;
+  gap: var(--gap);
+  align-content: center;
+}
 
 
 
