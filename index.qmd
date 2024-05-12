@@ -9,8 +9,8 @@ format:
     progress: true
     menu: true
     transition: fade
-    #css: sara-style.scss
-    #incremental: true
+    css: style.css
+    incremental: true
 ---
 
 # {background-color="#000033"}
@@ -57,12 +57,12 @@ format:
 
 > 🥳 [[Registered]{.rainbow-purple} charitable education institute in India.]{.theme-gray}
 
-![5 April 2023, First class of SARA held in Bhiwadi, RJ.](images/terra-sara.jpg)
+![5 April 2023, first class of SARA held in Bhiwadi, Rajasthan.](images/terra-sara.jpg)
 :::
 
 ::: {.column width="40%"}
 
-![Since Sep 2023, SARA is in Dr. Ambedkar Bhawan, Sonipat.](images/sara-sonipat.jpg)
+![Since Sep 2023, SARA is working from Dr. Ambedkar Bhawan, Sonipat, Haryana.](images/sara-sonipat.jpg)
 :::
 
 ::::
@@ -71,9 +71,9 @@ format:
 
 <br>
 
-> [SARA Institute is dedicated to [empowering underrepresented]{.rainbow-purple} communities in India through [free]{.rainbow-purple} data science education.]{.theme-gray}
+> [Mission of SARA Institute is to [empower underrepresented communities]{.rainbow-purple} in India through data science education.]{.theme-gray}
 
-::: {layout-ncol=2}
+::: {layout-ncol=2 layout-valign="bottom"}
 
 ![Public Meeting in Haryana.](images/visit-hr.jpg)
 
@@ -85,7 +85,7 @@ format:
 
 <br>
 
-> [All our courses are free and open-source for every student.]{.theme-gray}
+> [We offer [free and open-source]{.rainbow-purple} courses for every student.]{.theme-gray}
 
 
 ::: {layout-ncol=4 layout-valign="bottom"}
@@ -131,7 +131,9 @@ English Language
 
 :::
 
-## [Benefits of Studying at SARA]{.theme-white} {.scrollable background-image=images/lavender.png background-size=cover} {visibility="hidden"}
+## [Benefits of Studying at SARA]{.theme-white} {.scrollable background-image=images/lavender.png background-size=cover}
+
+<!-- {visibility="hidden"} -->
 
 <br>
 
@@ -143,7 +145,7 @@ English Language
 
 - We offer regular [English language]{.rainbow-purple} classes to improve writing, listening & speaking skills.
 
-- We mentor students to get admission in prestigious national and international universities.
+- We [mentor]{.rainbow-purple} students to get admission in prestigious national and international universities.
 
 ### For UG & PG
 
@@ -151,7 +153,7 @@ English Language
 
 - All UG & PG students can also attend our English & Computer courses to improve their basics.
 
-- We can mentor UG & PG students to create an unique online profile to get scholarship for further studies or to get job in industry.
+- We can mentor UG & PG students to create an unique online profile to get [scholarship]{.rainbow-purple} for further studies or to get [job]{.rainbow-purple} in industry.
 
 ### For PhD Scholars & Faculty {.scrollable}
 
@@ -178,7 +180,7 @@ English Language
 :::
 
 
-## In 2023-2024  {background-image="images/registration.jpeg" background-size="fit" background-color="#000000" background-opacity=0.3}
+## 2023-2024, Firsts  {background-image="images/registration.jpeg" background-size="fit" background-color="#000000" background-opacity=0.3}
 
 - We [started]{.rainbow-purple} our first class on 5 April 2023.
 
@@ -188,19 +190,51 @@ English Language
 
 - SARA got its own [bank account]{.rainbow-purple}.
 
-- SARA got its own official mobile number: 925 315 2024
+- SARA got its own official [mobile]{.rainbow-purple} number: 925 315 2024
 
-- SARA official WhatsApp channel: <https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J>
+- SARA official [WhatsApp]{.rainbow-purple} channel: <https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J>
 
-## [For 2024-2025]{.theme-white} {background-image="images/skin.png" background-size=cover}
-
-<br>
-
-- 1^st^ SARA [Summer School]{.rainbow-purple} "Doing Research using R"
+## [2023-2024, Assets]{.theme-white} {background-image="images/lemon.png" background-size=cover}
 
 <br>
 
-- SARA's new campaign ["Digital Dreams"]{.rainbow-purple}.
+::: {.panel-tabset}
+
+### Donation Received
+
+- We received with sincere thanks 🙏🏽 around four lakh fifty thousand rupees [(Rs. 4,50,000)]{.rainbow-purple} as donation.
+
+### Digital Screen
+
+- We bought a Maxhub [digital screen]{.rainbow-purple} for teaching.
+
+![](images/digital-screen.jpeg)
+
+### Mobile Phone
+
+- A female SARA supporter from Nagpur donated a [mobile]{.rainbow-purple} to SARA office.
+
+![](images/mobile.jpeg){width=30% fig-align=center}
+
+:::
+
+## [Goals for 2024-2025]{.theme-white} {background-image="images/skin.png" background-size=cover}
+
+<br>
+
+1. 1^st^ SARA [Summer School]{.rainbow-purple} "Doing Research using R"
+
+<br>
+
+2. SARA's new campaign ["Digital Dreams"]{.rainbow-purple}.
+
+## {background-color=#000}
+
+![](images/flyer-summer.jpeg){fig-align=center}
+
+::: {.centering}
+[{{< fa file-pdf >}} Download Poster](docs/flyer-summer-sara.pdf)
+:::
 
 ## [Summer School 22-26 July 2024]{.theme-white} {background-image="images/green.png"}
 
@@ -226,7 +260,7 @@ English Language
 
 - For more information pls visit: <https://sara-edu.netlify.app/school>
 
-## [SARA Summer School]{.theme-white} {background-image="images/silver.png"  background-size=cover background-color="white"}
+## [SARA Summer School Speakers]{.theme-white} {background-image="images/silver.png"  background-size=cover background-color="white"}
 
 <br>
 
@@ -261,7 +295,7 @@ Baruch College, USA.
 
 :::
 
-## [SARA Summer School]{.theme-white} {background-image="images/lemon.png" background-size=cover .scrollable}
+## [SARA Summer School Courses]{.theme-white} {background-image="images/lemon.png" background-size=cover .scrollable}
 
 <br>
 
@@ -269,7 +303,7 @@ Baruch College, USA.
 
 **22-26 July 2024**
 
-- Day 1 (22 July): Introduction to data science
+- [**Day 1 (22 July): Introduction to data science**]{.rainbow-purple}
     
     - *Online Expert lecture*
     - R & RStudio
@@ -282,7 +316,7 @@ Baruch College, USA.
     - Communicate using quarto
     - Help from R community
 
-- Day 2 (23 July): Data Visualization
+- [**Day 2 (23 July): Data Visualization**]{.rainbow-purple}
 
     - *Online Expert lecture*
     - Introduction & first steps
@@ -292,7 +326,7 @@ Baruch College, USA.
     - Saving your plots
     - Common problems
 
-- Day 3 (24 July): Research Design in Social Sciences
+- [**Day 3 (24 July): Research Design in Social Sciences**]{.rainbow-purple}
 
     - *Online Expert lecture*
     - Research framework
@@ -304,7 +338,7 @@ Baruch College, USA.
     - Quantiative methods and analysis
     - Qualitative methods and analysis
 
-- Day 4 (25 July): Quantitative Data Analysis
+- [**Day 4 (25 July): Quantitative Data Analysis**]{.rainbow-purple}
 
     - *Online Expert lecture*
     - Data and table manners
@@ -317,7 +351,7 @@ Baruch College, USA.
     - Fun with proportions
     - Correlation and regression
 
-- Day 5 (26 July): Publish using R and GitHub
+- [**Day 5 (26 July): Publish using R and GitHub**]{.rainbow-purple}
 
     - *Online Expert lecture*
     - Reproducible research
@@ -356,12 +390,12 @@ Baruch College, USA.
 ::: {.column width="60%"}
 > [Become Teacher or Mentor at SARA.]{.theme-white}
 
-> [Follow SARA on Social Media.]{.theme-white}<br>[{{< fa brands twitter >}}](https://twitter.com/sara_institute) &nbsp; [{{< fa brands linkedin >}}](https://www.linkedin.com/company/sara-institute-of-data-science/) &nbsp; [{{< fa brands youtube >}}](www.youtube.com/@saraedu23)
+> [Follow SARA on Social Media.]{.theme-white}<br>[[{{< fa brands twitter >}}]{.rainbow-yellow}](https://twitter.com/sara_institute) &nbsp; [[{{< fa brands linkedin >}}]{.rainbow-yellow}](https://www.linkedin.com/company/sara-institute-of-data-science/) &nbsp; [[{{< fa brands youtube >}}]{.rainbow-yellow}](www.youtube.com/@saraedu23)
 
 > [Please Donate, No Amount is Small.]{.theme-white}<br><form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_O57P0PBRJkiPSK" async> </script> </form>
 
 ::: {.small .rainbow-yellow}
-> [Our Address:<br>SARA Institute<br>Dr. Ambedkar Bhawan<br>Kakroi Road, Sonipat<br>Haryana - 131001]{.theme-white}<br>{{< fa phone >}} [925 315 2024]{.rainbow-yellow}<br>{{< fa envelope >}} [sara.institute.info@gmail.com]{.rainbow-yellow}<br>{{< fa globe >}} [[https://saraedu.netlify.app/]{.rainbow-yellow}](https://saraedu.netlify.app/)
+> [Our Address:<br>SARA Institute<br>Dr. Ambedkar Bhawan<br>Kakroi Road, Sonipat<br>Haryana - 131001]{.theme-white}<br>{{< fa phone >}} [925 315 2024]{.rainbow-yellow}<br>{{< fa brands whatsapp >}} [[SARA WhatsApp Channel]{.rainbow-yellow}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)<br>{{< fa globe >}} [[https://saraedu.netlify.app/]{.rainbow-yellow}](https://saraedu.netlify.app/)<br>{{< fa envelope >}} [sara.institute.info@gmail.com]{.rainbow-yellow}
 
 :::
 
@@ -373,19 +407,22 @@ Baruch College, USA.
 
 ::::
 
-# {background-image=images/donation.png background-size=contain background-position=left background-color=#000}
+# {background-image=images/babasaheb.jpg background-size=contain background-position=right background-color=#000}
 
 :::: {.columns .centering}
 
-::: {.column width="40%"}
+::: {.column width="50%"}
+
+![](images/donation.jpeg){width=80%}
+
+### [🙏🏽 Thank you 🙏🏽]{.theme-white .theme-cursive}
 
 :::
 
-::: {.column width="60%"}
+::: {.column width="50%"}
 
-[Thank You]{.r-fit-text .theme-cursive}
 
-![](images/babasaheb.jpg){width=60%}
+
 :::
 
 ::::
