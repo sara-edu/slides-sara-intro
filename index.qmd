@@ -7,23 +7,28 @@ format:
     logo: logo.png
     theme: [default, sara-style.scss]
     progress: true
-    menu: true
-    transition: fade
+    menu: false
+    #transition: slide
+    #transition-speed: slow
     css: style.css
-    incremental: true
+    #incremental: true
+    controls: true
 ---
 
 # {background-color="#000033"}
 
+<br>
+
 [SARA]{.r-fit-text}
 
 ::: {.centering}
-2023-2024
+
+ESTABLISHED 2023
+
 :::
 
 ##  {background-image="https://images.unsplash.com/photo-1615715035868-fc94bd5ffdac?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="cover"}
 
-<br>
 <br>
 <br>
 
@@ -31,7 +36,7 @@ format:
 ::: columns
 ::: {.column width="30%"}
 
-![**Krantijyoti [Sa]{.theme-red}vitribai Phule**<br><br>🌺 🙏🏽 🌼](images/savitrimai.png)
+![**Gyanjyoti [Sa]{.theme-red}vitribai Phule**<br><br>🌺 🙏🏽 🌼](images/savitrimai.png)
 :::
 
 ::: {.column width="40%"}
@@ -47,7 +52,9 @@ format:
 :::
 :::
 
-## [What is SARA?]{.theme-white} {background-image="images/skin.png" background-size=cover}
+[**Savitribai Ramabai Institute of Data Science**]{.r-fit-text}
+
+## [What is SARA?]{.theme-white} {background-image="images/lemon.png" background-size=cover}
 
 <br>
 
@@ -55,7 +62,7 @@ format:
 
 ::: {.column width="60%" }
 
-> 🥳 [[Registered]{.rainbow-purple} charitable education institute in India.]{.theme-gray}
+> [A registered charitable education institute in India.]{.theme-gray}
 
 ![5 April 2023, first class of SARA held in Bhiwadi, Rajasthan.](images/terra-sara.jpg)
 :::
@@ -67,11 +74,11 @@ format:
 
 ::::
 
-## [Why SARA?]{.theme-white} {background-image="images/green.png" background-size=cover}
+## [Why SARA?]{.theme-white} {background-image="images/lavender.png" background-size=cover}
 
 <br>
 
-> [Mission of SARA Institute is to [empower underrepresented communities]{.rainbow-purple} in India through data science education.]{.theme-gray}
+> [The mission of the SARA Institute is to empower underrepresented communities in India by providing accessible and high-quality data science education.]{.theme-gray}
 
 ::: {layout-ncol=2 layout-valign="bottom"}
 
@@ -81,14 +88,19 @@ format:
 
 :::
 
-## [What does SARA do?]{.theme-white} {background-image="images/silver.png"  background-size=cover background-color="white"}
+## [What does SARA do?]{.theme-white} {background-image="images/gold.png"  background-size=cover background-color="white"}
 
 <br>
 
-> [We offer [free and open-source]{.rainbow-purple} courses for every student.]{.theme-gray}
+> [We provide free & open-source courses accessible to marginalized students in India.]{.theme-gray}
 
+:::: {layout-ncol=4 layout-valign="bottom"}
 
-::: {layout-ncol=4 layout-valign="bottom"}
+::: {.card}
+![](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=2922&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+English Language
+:::
 
 ::: {.card}
 ![](https://images.unsplash.com/photo-1649433391420-542fcd3835ea?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
@@ -108,320 +120,109 @@ Data Science
 
 Research Methods
 :::
+::::
 
-::: {.card}
-![](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=2922&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-
-English Language
-:::
-
-:::
-
-## Interactive Learning {background-color=#000000}
-
-::: {layout-nrow=2 layout-valign="bottom"}
-
-![](images/priya.jpg){width=70%}
-
-![](images/yash.jpg){width=70%}
-
-![](images/krishna.jpg){width=70%}
-
-![](images/aarti.jpg){width=70%}
-
-:::
-
-## [Benefits of Studying at SARA]{.theme-white} {.scrollable background-image=images/lavender.png background-size=cover}
-
-<!-- {visibility="hidden"} -->
+## [Our Trainings]{.theme-white} {background-image=images/lavender.png background-size=cover}
 
 <br>
 
 ::: {.panel-tabset}
 
-### For $12^{th}$ class
+### June 
 
-- We offer 45 days [Basics of Computer]{.rainbow-purple} course to improve the computer friendliness of students from semi-urban and rural regions.
+- "**Foundations of Reproducible Research Methodology**".
 
-- We offer regular [English language]{.rainbow-purple} classes to improve writing, listening & speaking skills.
+- A five days residential **summer school** to introduce the worlds of research and data science.
 
-- We [mentor]{.rainbow-purple} students to get admission in prestigious national and international universities.
+### September 
 
-### For UG & PG
+- "**R for Beginners**"
 
-- Using [R programming language](https://www.r-project.org/) & [GitHub](https://github.com/), we offer various data science courses to teach data visualization, wrangling, statistics, and communication (like creating website using [Quarto](https://quarto.org/)).
+- A five days residential **bootcamp** to teach the R programming language.
 
-- All UG & PG students can also attend our English & Computer courses to improve their basics.
+![](images/summer-school-students-july24.jpeg){width=70% fig-align=center}
 
-- We can mentor UG & PG students to create an unique online profile to get [scholarship]{.rainbow-purple} for further studies or to get [job]{.rainbow-purple} in industry.
+### December
 
-### For PhD Scholars & Faculty {.scrollable}
+- "**Statistics using R**"
 
-- Data science plays a crucial role in [research]{.rainbow-purple} across various fields due to its ability to analyze, interpret, and derive insights from large and complex data sets.
+- A five days residential **winter school** to teach statistics.
 
-- We offer data science, research methodology, and statistics workshop and [summer/winter school]{.rainbow-purple} for PhD scholars and Faculty.
+![](images/flyer-winter.png){width=25% fig-align=center}
 
-::: {.scrollable}
+### March 
 
-- Here are some key areas where data science is used in research: 
-  - Healthcare and Medicine  
-  - Social Sciences
-  - Environmental Science
-  - Business and Marketing
-  - Engineering and Technology
-  - Education
-  - Astronomy and Astrophysics
-  - Psychology and Neuroscience
-  - Agriculture
-  - Energy
-  
+- "**Publish using Data Science Tools**"
+
+- A five days residential **bootcamp** to teach quarto, latex, R, GitHub to publish reports, papers, books, websites and blogs.
+
 :::  
 
-:::
-
-
-## 2023-2024, Firsts  {background-image="images/registration.jpeg" background-size="fit" background-color="#000000" background-opacity=0.3}
-
-- We [started]{.rainbow-purple} our first class on 5 April 2023.
-
-- We taught a total of [fifty students]{.rainbow-purple} in two different batches.
-
-- We are [registered]{.rainbow-purple} with the Government of India under the Trust Act.
-
-- SARA got its own [bank account]{.rainbow-purple}.
-
-- SARA got its own official [mobile]{.rainbow-purple} number: 925 315 2024
-
-- SARA official [WhatsApp]{.rainbow-purple} channel: <https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J>
-
-## [2023-2024, Assets]{.theme-white} {background-image="images/lemon.png" background-size=cover}
+## [Support SARA]{.theme-white} {background-image="images/violet.png" background-size=cover}
 
 <br>
-
-::: {.panel-tabset}
-
-### Donation Received
-
-- We received with sincere thanks 🙏🏽 around four lakh fifty thousand rupees [(Rs. 4,50,000)]{.rainbow-purple} as donation.
-
-### Digital Screen
-
-- We bought a Maxhub [digital screen]{.rainbow-purple} for teaching.
-
-![](images/digital-screen.jpeg)
-
-### Mobile Phone
-
-- A female SARA supporter from Nagpur donated a [mobile]{.rainbow-purple} to SARA office.
-
-![](images/mobile.jpeg){width=30% fig-align=center}
-
-:::
-
-## [Goals for 2024-2025]{.theme-white} {background-image="images/skin.png" background-size=cover}
-
-<br>
-
-1. 1^st^ SARA [Summer School]{.rainbow-purple} "Doing Research using R"
-
-<br>
-
-2. SARA's new campaign ["Digital Dreams"]{.rainbow-purple}.
-
-## {background-color=#000}
-
-![](images/flyer-summer.jpeg){fig-align=center}
-
-::: {.centering}
-[{{< fa file-pdf >}} Download Poster](docs/flyer-summer-sara.pdf)
-:::
-
-## [Summer School 22-26 July 2024]{.theme-white} {background-image="images/green.png"}
-
-<br>
-
-- Topic: "Doing Research using R"
-
-- Organized for SC/ST/OBC/EWS participants.
-
-- Beneficial for all researchers, faculty and field practitioners.
-
-- Classes will be physically in-person at the SARA Institute, Dr. Ambedkar Bhawan, Sonipat, Haryana - 131001.
-
-- No Tuition Fee
-
-- Food and accommodation charges Rs. 6000 /- for ten days.
-
-- Participants should bring their own laptop.
-
-- All participants receive an ungraded certificate of attendance on the last day
-
-- Registration link: <https://tinyurl.com/3k4js6wp>
-
-- For more information pls visit: <https://sara-edu.netlify.app/school>
-
-## [SARA Summer School Speakers]{.theme-white} {background-image="images/silver.png"  background-size=cover background-color="white"}
-
-<br>
-
-> [Online Expert Sessions.]{.theme-gray}
-
-::: {layout-ncol=5 layout-valign="top"}
-
-::: {.card}
-![](images/babu-sir.jpg)
-
-::: {.small}
-**Dr. Babu George** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/beingbabu/)
-
-Professor of Management
-
-Alcorn State University, USA.
-:::
-:::
-
-::: {.card}
-![](images/sam-madam.jpg)
-
-::: {.small}
-**Dr. Samantha BacBride** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
-
-Adj Asst Professor
-
-Baruch College, USA.
-:::
-
-:::
-
-:::
-
-## [SARA Summer School Courses]{.theme-white} {background-image="images/lemon.png" background-size=cover .scrollable}
-
-<br>
-
-**5 days courses (9 am to 12:30 pm & 1:30 pm to 6 pm; 40 hours).**
-
-**22-26 July 2024**
-
-- [**Day 1 (22 July): Introduction to data science**]{.rainbow-purple}
-    
-    - *Online Expert lecture*
-    - R & RStudio
-    - Types of operators
-    - RStudio project
-    - Coding using console, script & quarto
-    - Structure of R function
-    - R packages
-    - Create objects
-    - Communicate using quarto
-    - Help from R community
-
-- [**Day 2 (23 July): Data Visualization**]{.rainbow-purple}
-
-    - *Online Expert lecture*
-    - Introduction & first steps
-    - ggplot2 calls
-    - Visualizing distributions
-    - Visualizing relationships
-    - Saving your plots
-    - Common problems
-
-- [**Day 3 (24 July): Research Design in Social Sciences**]{.rainbow-purple}
-
-    - *Online Expert lecture*
-    - Research framework
-    - Research approaches
-    - Ethics in research
-    - Literature review and its tools
-    - Levels of measurement
-    - Sampling and its types
-    - Quantiative methods and analysis
-    - Qualitative methods and analysis
-
-- [**Day 4 (25 July): Quantitative Data Analysis**]{.rainbow-purple}
-
-    - *Online Expert lecture*
-    - Data and table manners
-    - Average and percentiles
-    - Spreads
-    - Transforming data
-    - The normal distribution
-    - From samples to populations
-    - Getting confident
-    - Fun with proportions
-    - Correlation and regression
-
-- [**Day 5 (26 July): Publish using R and GitHub**]{.rainbow-purple}
-
-    - *Online Expert lecture*
-    - Reproducible research
-    - Dynamic thesis, articles and slides.
-    - Add links and images
-    - Prepare list
-    - Write equations
-    - Prepare tables
-    - Reference management
-    - Learn using GitHub
-    - Make your own website
-
-# [DIGITAL<br>DREAMS]{.r-fit-text .theme-white .theme-audio .centering} {background-image="images/digital_dreams.jpg" background-size=cover}
-
-## [Digital Dreams]{.theme-white} {background-image="images/lavender.png" background-size=cover}
-
-<br>
-
-- Purpose is to establish at least a [30 computers laboratory]{.rainbow-purple} for the SARA Institute.
-
-- This computer lab will be used for [teaching & research]{.rainbow-purple}.
-
-- Total Budget: [Rs. 25,00,000]{.rainbow-purple} (Twenty Five Lakh Rupees only).
-  - Computers: Rs. 15,00,0000
-  - Peripherals: Rs. 2,00,000
-  - Software: Rs. 3,00,000
-  - Networking: Rs. 1,50,000
-  - Furniture: Rs. 1,50,000
-  - Labour: Rs. 1,00,000
-  - Miscellaneous: Rs. 1,00,000
-
-## [Yes, you can Help SARA.]{.theme-white} {background-image="images/brown.png" background-size=cover}
 
 :::: {.columns}
 
-::: {.column width="60%"}
-> [Become Teacher or Mentor at SARA.]{.theme-white}
+::: {.column width="50%" .theme-white}
 
-> [Follow SARA on Social Media.]{.theme-white}<br>[[{{< fa brands twitter >}}]{.rainbow-yellow}](https://twitter.com/sara_institute) &nbsp; [[{{< fa brands linkedin >}}]{.rainbow-yellow}](https://www.linkedin.com/company/sara-institute-of-data-science/) &nbsp; [[{{< fa brands youtube >}}]{.rainbow-yellow}](www.youtube.com/@saraedu23)
+<br>
 
-> [Please Donate, No Amount is Small.]{.theme-white}<br><form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_O57P0PBRJkiPSK" async> </script> </form>
+- Become educator at SARA.
 
-::: {.small .rainbow-yellow}
-> [Our Address:<br>SARA Institute<br>Dr. Ambedkar Bhawan<br>Kakroi Road, Sonipat<br>Haryana - 131001]{.theme-white}<br>{{< fa phone >}} [925 315 2024]{.rainbow-yellow}<br>{{< fa brands whatsapp >}} [[SARA WhatsApp Channel]{.rainbow-yellow}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)<br>{{< fa globe >}} [[https://saraedu.netlify.app/]{.rainbow-yellow}](https://saraedu.netlify.app/)<br>{{< fa envelope >}} [sara.institute.info@gmail.com]{.rainbow-yellow}
+- Please Donate, No Amount is Small.<br><form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_O57P0PBRJkiPSK" async> </script> </form>
 
-:::
+- Follow and Support SARA on Social Media.<br>[[{{< fa brands twitter >}}]{.rainbow-yellow}](https://twitter.com/sara_institute) &nbsp; [[{{< fa brands facebook >}}]{.rainbow-yellow}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [[{{< fa brands youtube >}}]{.rainbow-yellow}](https://www.youtube.com/@SARADataScience) &nbsp; [[{{< fa brands linkedin >}}]{.rainbow-yellow}](https://www.linkedin.com/company/sara-institute/) &nbsp; [[{{< fa brands whatsapp >}}]{.rainbow-yellow}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
 
 :::
 
-::: {.column width="40%"}
-![[Guru Ravidas Ji Bhawan in Rajasthan.]{.theme-white}](images/guru-ravidas.jpg)
+::: {.column width="50%"}
+![](images/babasaheb.jpg){width=80% fig-align=right}
 :::
 
 ::::
 
-# {background-image=images/babasaheb.jpg background-size=contain background-position=right background-color=#000}
+## 
 
-:::: {.columns .centering}
+:::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 
-![](images/donation.jpeg){width=80%}
+<br>
+<br>
+<br>
 
-### [🙏🏽 Thank you 🙏🏽]{.theme-white .theme-cursive}
-
+![](logo.png)
 :::
 
 ::: {.column width="50%"}
 
+<br>
+<br>
+<br>
+<br>
 
+{{< fa home >}} SARA Institute, Dr. Ambedkar Bhawan, Kakroi Road, Sonipat, Haryana - 131001
+
+{{< fa phone >}} 925 315 2024
+
+{{< fa envelope >}} [sara.institute.info@gmail.com](mailto: sara.institute.info@gmail.com)
+
+{{< fa globe >}} [https://saraedu.netlify.app/](https://sara-edu.netlify.app/)
+:::
+
+::::
+
+
+# {background-image=images/guru-ravidas.jpg background-size=contain background-position=right background-color=#000033}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Thank You!]{.r-fit-text}
+:::
+
+::: {.column width="50%"}
 
 :::
 
