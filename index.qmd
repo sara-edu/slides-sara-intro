@@ -7,8 +7,8 @@ format:
     logo: logo.png
     theme: [default, sara-style.scss]
     progress: true
-    menu: false
-    #transition: slide
+    menu: true
+    transition: fade
     #transition-speed: slow
     css: style.css
     #incremental: true
@@ -23,7 +23,7 @@ format:
 
 ::: {.centering}
 
-ESTABLISHED 2023
+ESTABLISHED 2023 · India
 
 :::
 
@@ -52,7 +52,7 @@ ESTABLISHED 2023
 :::
 :::
 
-[**Savitribai Ramabai Institute of Data Science**]{.r-fit-text}
+[**Savitribai Ramabai Institute of Data Science, Sonipat, Haryana.**]{.r-fit-text}
 
 ## [What is SARA?]{.theme-white} {background-image="images/lemon.png" background-size=cover}
 
@@ -122,7 +122,7 @@ Research Methods
 :::
 ::::
 
-## [Our Trainings]{.theme-white} {background-image=images/lavender.png background-size=cover}
+## [Our Data Science Trainings]{.theme-white} {background-image=images/lavender.png background-size=cover}
 
 <br>
 
@@ -158,26 +158,71 @@ Research Methods
 
 :::  
 
-## [Support SARA]{.theme-white} {background-image="images/violet.png" background-size=cover}
+## [SARA Education Fair]{.theme-white} {background-image="images/lemon.png" background-size=cover .caption}
+
+:::: {.columns}
+
+::: {.column width="68%"}
+
+<br>
+
+- This annual education fair celebrates the legacy of **Gyanjyoti Mata Savitribai Phule** on her birth anniversary, January 3rd.
+
+- A platform for community students to explore education and career opportunities by asking their questions directly to experts.
+
+- Mark your calendars: **January 5, 2025**.
+:::
+
+::: {.column width="32%"}
+<br>
+
+![Gyanjyoti Mata Savitribai Phule (3 Jan 1831-10 Mar 1897)](images/savitrimai.png){fig-align=center}
+:::
+
+::::
+
+## SARA Sustainability & Sanitation Conference {background-color=#008B8B background-size=35% background-image=https://images.unsplash.com/photo-1719943757799-b9f9575dac3e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D background-position=right}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<br>
+<br>
+
+*- Proposed international conference*
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::
+
+::: aside
+Image source: [Photo Archives](https://images.unsplash.com/photo-1719943757799-b9f9575dac3e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+:::
+
+## [Support SARA]{.rainbow-yellow} {background-image=images/babasaheb.jpg background-size=contain background-position=right background-color=black}
 
 <br>
 
 :::: {.columns}
 
-::: {.column width="50%" .theme-white}
+::: {.column width="45%"}
 
 <br>
 
 - Become educator at SARA.
 
-- Please Donate, No Amount is Small.<br><form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_O57P0PBRJkiPSK" async> </script> </form>
+- Please Donate, No Amount is too Small.<br><form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_O57P0PBRJkiPSK" async> </script> </form>
 
-- Follow and Support SARA on Social Media.<br>[[{{< fa brands twitter >}}]{.rainbow-yellow}](https://twitter.com/sara_institute) &nbsp; [[{{< fa brands facebook >}}]{.rainbow-yellow}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [[{{< fa brands youtube >}}]{.rainbow-yellow}](https://www.youtube.com/@SARADataScience) &nbsp; [[{{< fa brands linkedin >}}]{.rainbow-yellow}](https://www.linkedin.com/company/sara-institute/) &nbsp; [[{{< fa brands whatsapp >}}]{.rainbow-yellow}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
+- Follow SARA on Social Media.<br>[[{{< fa brands twitter >}}]{.rainbow-yellow}](https://twitter.com/sara_institute) &nbsp; [[{{< fa brands facebook >}}]{.rainbow-yellow}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [[{{< fa brands youtube >}}]{.rainbow-yellow}](https://www.youtube.com/@SARADataScience) &nbsp; [[{{< fa brands linkedin >}}]{.rainbow-yellow}](https://www.linkedin.com/company/sara-institute/) &nbsp; [[{{< fa brands whatsapp >}}]{.rainbow-yellow}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
 
 :::
 
-::: {.column width="50%"}
-![](images/babasaheb.jpg){width=80% fig-align=right}
+::: {.column width="55%"}
+
 :::
 
 ::::
