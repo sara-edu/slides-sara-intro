@@ -3,7 +3,7 @@ pagetitle: "SARA"
 
 format: 
   revealjs:
-    slide-number: true
+    slide-number: false
     logo: logo.png
     theme: [default, sara-style.scss]
     progress: true
@@ -50,11 +50,15 @@ ESTABLISHED 2023 · India
 ![**Mata [Ra]{.theme-red}mabai Ambedkar**<br><br>🌺 🙏🏽 🌼](images/ramai.png)
 :::
 :::
-:::
+
 
 [**Savitribai Ramabai Institute of Data Science, Sonipat, Haryana.**]{.r-fit-text}
 
-## [What is SARA?]{.theme-white} {background-image="images/lemon.png" background-size=cover}
+Founded By Dr. Ajay Kumar Koli, PhD & Dr. Kiran Lata, PhD
+
+:::
+
+## [SARA]{.theme-white} {background-image="images/lemon.png" background-size=cover}
 
 <br>
 
@@ -74,7 +78,7 @@ ESTABLISHED 2023 · India
 
 ::::
 
-## [Why SARA?]{.theme-white} {background-image="images/lavender.png" background-size=cover}
+## [Mission]{.theme-white} {background-image="images/lavender.png" background-size=cover}
 
 <br>
 
@@ -88,7 +92,7 @@ ESTABLISHED 2023 · India
 
 :::
 
-## [What does SARA do?]{.theme-white} {background-image="images/gold.png"  background-size=cover background-color="white"}
+## [Courses]{.theme-white} {background-image="images/gold.png"  background-size=cover background-color="white"}
 
 <br>
 
@@ -122,7 +126,7 @@ Research Methods
 :::
 ::::
 
-## [Our Data Science Trainings]{.theme-white} {background-image=images/lavender.png background-size=cover}
+## [Trainings]{.theme-white} {background-image=images/lavender.png background-size=cover}
 
 <br>
 
@@ -158,28 +162,17 @@ Research Methods
 
 :::  
 
-## [SARA Education Fair]{.theme-white} {background-image="images/lemon.png" background-size=cover .caption}
-
-:::: {.columns}
-
-::: {.column width="68%"}
+## Education Fair {background-image=images/savitrimai-border.png background-position=right background-size=40% background-color=#B7410E}
 
 <br>
-
-- This annual education fair celebrates the legacy of **Gyanjyoti Mata Savitribai Phule** on her birth anniversary, January 3rd.
-
-- A platform for community students to explore education and career opportunities by asking their questions directly to experts.
-
-- Mark your calendars: **January 5, 2025**.
-:::
-
-::: {.column width="32%"}
+<br>
 <br>
 
-![Gyanjyoti Mata Savitribai Phule (3 Jan 1831-10 Mar 1897)](images/savitrimai.png){fig-align=center}
-:::
+- To celebrates Savitrimais' birth anniversary
 
-::::
+- Students' interaction with experts
+
+{{< fa calendar-days >}} Mark your calendars: **January 5, 2025**
 
 ## Data & AI Ethics {background-color=#008B8B background-size=contain background-image=https://images.unsplash.com/photo-1683381660400-d43b7a1cffda?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D background-position=right}
 
