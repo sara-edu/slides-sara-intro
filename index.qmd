@@ -181,7 +181,9 @@ Research Methods
 
 ::::
 
-## SARA Sustainability & Sanitation Conference {background-color=#008B8B background-size=35% background-image=https://images.unsplash.com/photo-1719943757799-b9f9575dac3e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D background-position=right}
+## Data & AI Ethics {background-color=#008B8B background-size=contain background-image=https://images.unsplash.com/photo-1683381660400-d43b7a1cffda?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D background-position=right}
+
+<br>
 
 :::: {.columns}
 
@@ -189,8 +191,9 @@ Research Methods
 
 <br>
 <br>
+<br>
 
-*- Proposed international conference*
+*- Proposed Annual International Conference*
 :::
 
 ::: {.column width="50%"}
@@ -200,7 +203,7 @@ Research Methods
 ::::
 
 ::: aside
-Image source: [Photo Archives](https://images.unsplash.com/photo-1719943757799-b9f9575dac3e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+Image source: [Jeffrey Hemsworth](https://images.unsplash.com/photo-1683381660400-d43b7a1cffda?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 :::
 
 ## [Support SARA]{.rainbow-yellow} {background-image=images/babasaheb.jpg background-size=contain background-position=right background-color=black}
