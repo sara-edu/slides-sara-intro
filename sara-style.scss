@@ -21,224 +21,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
 
 // define color variables.
-$clr-darkblue:    #000033;
-$theme-navy-blue: #001f3d;
-$theme-gray:      #282a36;
-$theme-red:       #E7553C; 
-$theme-white:     #ffffff;
-$theme-light-blue: #A3D3FC;
-$theme-blue:      #76AADB;
-$theme-green: #2a9d8f;
+$clr-berk-blue:  #003272;
+$clr-red:       #E7553C; 
 
 
 $presentation-heading-font: 'Libre Baskerville', 'serif';
-$presentation-heading-color: $theme-navy-blue;
-$presentation-h2-font-size: 2.0em;
+$presentation-heading-color: $clr-berk-blue;
+
 
 // body style.
 $font-family-sans-serif: "Sen", "sans-serif";
-//$mainFontSize: 35px;
-$presentation-font-size-root: 30px;
-$body-color: $theme-gray;
-$body-bg: $theme-white;
 
 
 // link style.
-$link-color: $theme-red;
+$link-color: $clr-red;
 $link-color-hover: lighten($link-color, 15%);
 $selection-bg: #007AF8;
-
-
-// code chunk box style.
-//$code-block-border-color: lighten($navy-blue, 20%);
-$code-block-font-size: 1em;
-$code-color: $theme-red;
-$code-bg: #fff;
-$code-block-bg: #fff;
-
-
-/*-- scss:rules --*/
-
-.theme-gray {
-  color: $theme-gray;
-}
-
-.theme-red {
-  color: $theme-red;
-}
-
-.theme-blue {
-  color: #219ebc;
-}
-
-.theme-green {
-  color: #31572c;
-}
-
-.theme-navy-blue {
-  color: $theme-navy-blue;
-}
-
-.theme-white {
-  color: $theme-white;
-}
-
-
-.theme-hello {
-  font-family: $presentation-heading-font;
-}
-
-.theme-audio {
-  font-family: 'Audiowide', sans-serif;
-}
-
-.theme-bruno {
-  font-family: 'Bruno Ace', sans-serif;
-}
-
-.theme-michroma {
-  font-family: 'Michroma', sans-serif;
-}
-
-.theme-cursive {
-  font-family: "Sail";
-}
-
-.theme-basker {
-  font-family: 'Libre Baskerville', serif;
-}
-
-.right {
-  text-align: right;
-}
-
-.left {
-  text-align: left;
-}
 
 .centering {
   text-align: center;
 }
 
-.small {
-  font-size: 0.7em;
+.clr-red {
+  color: $clr-red;
 }
 
-.theme-logo {
-  font-size: 2.5em;
-}
-
-
-// underline the link.
-.reveal .slide a {
-  text-decoration: underline;
-}
-
-
-// to increase space between code block and code output
-.reveal div.sourceCode {
-    margin-bottom: 20px !important;
-}
-
-
-// shade around the code chunk box.
-.reveal div.sourceCode {
-  box-shadow: 0 15px 30px rgba($theme-blue, 0.8);
-}
-
-
-// your turn exercise slide style.
-.your-turn {
-  color: #fff;
-  h1, h2, h3 {
-    color: #fff;
-    font-size: 2.5em;
-  }
-
-  a {
-    color: #f1fa8c;
-  }
-  
-  a:hover {
-    color: #d8e17e;
-  }
-  
-  .slide-background-content {
-    background-color: #447099;
-  }
-  
-}
-
-
-// inverse.
-.inverse {
-  color: #fff;
-  h1 {
-    color: #fff;
-    font-size: 3em;
-    text-align: center;
-  }
-  
-  a {
-    color: #bed3ec;
-  }
-  
-  a:hover {
-    color: #bed3ec;
-  }
-  
-  .slide-background-content {
-    background-color: #282a36;
-  }
-  
-}
-
-// this idea of rainbow color is borrowed from Emil's slides link https://github.com/EmilHvitfeldt/talk-nyr-slidecraft/blob/main/styles.scss
-
-.rainbow-red {color: #FF0002;}
-.rainbow-orange {color: #FF7800;}
-.rainbow-yellow {color: #FFFD0A;}
-.rainbow-green {color: #10DD15;}
-.rainbow-blue {color: #3050FF;}
-.rainbow-indigo {color: #7B20A3;}
-.rainbow-purple {color: #D501FA;}
-
-/* settings for card and columns */
-.card {
-  padding: 2rem;
-  border-top: 8px solid;
-  border-radius: 0.5rem; 
-  box-shadow: 0 1rem 1.5rem -0.5rem rgba(0 50 100 / 0.15);
-  background: $theme-navy-blue;
-  text-align: left;
-  color: white;
-}
-
-/* On mouse-over, add a deeper shadow */
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-
-.layout-grid {
-  --gap: 0.85rem;
-  display: grid;
-  gap: var(--gap);
-}
-
-@media (min-width: 800px) {
-  .layout-grid {
-    grid-template-columns: 1fr 1fr 1fr;
-  }
-}
-
-.layout-grid > * {
-  flex: 1;
-}
-
-.col {
-  display: grid;
-  gap: var(--gap);
-  align-content: center;
+.clr-black {
+  color: #000000;
 }
 
 .fa-facebook:hover {
@@ -269,10 +78,13 @@ $code-block-bg: #fff;
     color: #25D366;    
 }
 
-.caption{
-   text-align: center;
+// below important to zero top padding gap solution is from the Stackoverflow
+.content {
+  //margin-top: -20px;
+  margin-bottom: -60px;
 }
 
-
-
+.centering {
+  text-align: center;
+}
 

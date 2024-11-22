@@ -15,76 +15,55 @@ format:
     controls: true
 ---
 
-# {background-color="#000033"}
+# {background-color="#003262"}
 
 <br>
 
 [SARA]{.r-fit-text}
 
-::: {.centering}
-
-ESTABLISHED 2023 · India
-
-:::
 
 ##  {background-image="https://images.unsplash.com/photo-1615715035868-fc94bd5ffdac?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="cover"}
 
-<br>
-<br>
-
 ::: centering
 ::: columns
-::: {.column width="30%"}
+::: {.column width="35%"}
 
-![**Gyanjyoti [Sa]{.theme-red}vitribai Phule**<br><br>🌺 🙏🏽 🌼](images/savitrimai.png)
-:::
-
-::: {.column width="40%"}
-<br>
-
-![](logo.png){width="3in"}
+![**Gyanjyoti [Sa]{.clr-red}vitribai Phule**<br><br>🌺 🙏🏽 🌼](images/savitrimai.png)
 :::
 
 ::: {.column width="30%"}
 
-![**Mata [Ra]{.theme-red}mabai Ambedkar**<br><br>🌺 🙏🏽 🌼](images/ramai.png)
-:::
-:::
-
-
-[**Savitribai Ramabai Institute of Data Science, Sonipat, Haryana.**]{.r-fit-text}
-
-Founded By Dr. Ajay Kumar Koli, PhD & Dr. Kiran Lata, PhD
-
-:::
-
-## [SARA]{.theme-white} {background-image="images/lemon.png" background-size=cover}
-
 <br>
 
-:::: {.columns layout-ncol=2 layout-valign="bottom"}
+![](logo.png){width="3in" fig-align=center}
 
-::: {.column width="60%" }
-
-> [A registered charitable education institute in India.]{.theme-gray}
-
-![5 April 2023, first class of SARA held in Bhiwadi, Rajasthan.](images/terra-sara.jpg)
 :::
 
-::: {.column width="40%"}
+::: {.column width="35%"}
 
-![Since Sep 2023, SARA is working from Dr. Ambedkar Bhawan, Sonipat, Haryana.](images/sara-sonipat.jpg)
+![**Mata [Ra]{.clr-red}mabai Ambedkar**<br><br>🌺 🙏🏽 🌼](images/ramai.png)
+:::
 :::
 
-::::
 
-## [Mission]{.theme-white} {background-image="images/lavender.png" background-size=cover}
+[**Savitribai Ramabai (SARA) Institute of Data Science**]{.r-fit-text}
 
-<br>
+:::
 
-> [The mission of the SARA Institute is to empower underrepresented communities in India by providing accessible and high-quality data science education.]{.theme-gray}
+## SARA Education Trust
 
-::: {layout-ncol=2 layout-valign="bottom"}
+- A registered charitable education institute in India.
+
+::: centering
+
+![5 April 2023 -- classes started at the SARA.](images/terra-sara.jpg){width="80%"}
+:::
+
+## Our Mission 
+
+- To empower underrepresented communities in India by providing data science education.
+
+::: {layout-ncol=2 layout-valign="bottom" .centering}
 
 ![Public Meeting in Haryana.](images/visit-hr.jpg)
 
@@ -92,13 +71,11 @@ Founded By Dr. Ajay Kumar Koli, PhD & Dr. Kiran Lata, PhD
 
 :::
 
-## [Courses]{.theme-white} {background-image="images/gold.png"  background-size=cover background-color="white"}
+## Free & Open-source Courses
 
 <br>
 
-> [We provide free & open-source courses accessible to marginalized students in India.]{.theme-gray}
-
-:::: {layout-ncol=4 layout-valign="bottom"}
+:::: {layout-ncol=4 layout-valign="bottom" .centering}
 
 ::: {.card}
 ![](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=2922&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
@@ -126,98 +103,59 @@ Research Methods
 :::
 ::::
 
-## [Trainings]{.theme-white} {background-image=images/lavender.png background-size=cover}
-
-<br>
-
-::: {.panel-tabset}
-
-### June 
-
-- "**Foundations of Reproducible Research Methodology**".
-
-- A five days residential **summer school** to introduce the worlds of research and data science.
-
-### September 
-
-- "**R for Beginners**"
-
-- A five days residential **bootcamp** to teach the R programming language.
-
-![](images/summer-school-students-july24.jpeg){width=70% fig-align=center}
-
-### December
-
-- "**Statistics using R**"
-
-- A five days residential **winter school** to teach statistics.
-
-![](images/flyer-winter.png){width=25% fig-align=center}
-
-### March 
-
-- "**Publish using Data Science Tools**"
-
-- A five days residential **bootcamp** to teach quarto, latex, R, GitHub to publish reports, papers, books, websites and blogs.
-
-:::  
-
-## Education Fair {background-image=images/savitrimai-border.png background-position=right background-size=40% background-color=#B7410E}
-
-<br>
-<br>
-<br>
-
-- To celebrates Savitrimais' birth anniversary
-
-- Students' interaction with experts
-
-{{< fa calendar-days >}} Mark your calendars: **January 5, 2025**
-
-## Data & AI Ethics {background-color=#008B8B background-size=contain background-image=https://images.unsplash.com/photo-1683381660400-d43b7a1cffda?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D background-position=right}
-
-<br>
-
-:::: {.columns}
-
-::: {.column width="50%"}
-
-<br>
-<br>
-<br>
-
-*- Proposed Annual International Conference*
+::: aside
+Image source: [Unsplash](https://unsplash.com/)
 :::
 
-::: {.column width="50%"}
 
+## Our Latest Training
+
+![18 participants attended our five days SARA data science  residential summer school to learn R programming language.](images/summer-school-students-july24.jpeg){fig-align=center}
+
+::: aside
+Watch a glimpse of it on our [YouTube](https://youtu.be/Yh5GaURxfXA?si=6uFMZmGSBkSC5uxl) channel.
 :::
 
-::::
+# Our Next <br>Training  {background-image=images/flyer-winter.png background-position=right background-size="contain"}
+
+# SARA <br>Education <br>Fair {background-image=images/savitrimai-border.png background-position=right background-size="contain"}
+
+# Data & AI <br>Conference {background-size="contain" background-image=https://images.unsplash.com/photo-1683381660400-d43b7a1cffda?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D background-position=right}
+
+<br>
+<br>
 
 ::: aside
 Image source: [Jeffrey Hemsworth](https://images.unsplash.com/photo-1683381660400-d43b7a1cffda?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 :::
 
-## [Support SARA]{.rainbow-yellow} {background-image=images/babasaheb.jpg background-size=contain background-position=right background-color=black}
-
-<br>
+## Support SARA {background-image=images/babasaheb.jpg background-size=contain background-position=right}
 
 :::: {.columns}
 
-::: {.column width="45%"}
+::: {.column width="70%" .r-fit-text}
 
 <br>
+<br>
 
-- Become educator at SARA.
+- Teach at SARA.
 
-- Please Donate, No Amount is too Small.<br><form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_O57P0PBRJkiPSK" async> </script> </form>
+- Donate to SARA.
 
-- Follow SARA on Social Media.<br>[[{{< fa brands twitter >}}]{.rainbow-yellow}](https://twitter.com/sara_institute) &nbsp; [[{{< fa brands facebook >}}]{.rainbow-yellow}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [[{{< fa brands youtube >}}]{.rainbow-yellow}](https://www.youtube.com/@SARADataScience) &nbsp; [[{{< fa brands linkedin >}}]{.rainbow-yellow}](https://www.linkedin.com/company/sara-institute/) &nbsp; [[{{< fa brands whatsapp >}}]{.rainbow-yellow}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
+  - UPI ID: 919243152024@sbi
+
+- Bank Transfer:<br>
+  - Account Name: SARA EDUCATION TRUST.
+  
+  - Account Number: 42920911856.
+  
+  - Bank Name: STATE BANK OF INDIA.
+  
+  - IFSC Code: SBIN0000721.
 
 :::
 
-::: {.column width="55%"}
+::: {.column width="30%"}
 
 :::
 
@@ -227,44 +165,45 @@ Image source: [Jeffrey Hemsworth](https://images.unsplash.com/photo-168338166040
 
 :::: {.columns}
 
-::: {.column width="40%"}
+::: {.column width="30%" .centering}
 
 <br>
 <br>
-<br>
 
-![](logo.png)
+![Savitribai Ramabai (SARA) Institute of Data Science](logo.png)
 :::
 
-::: {.column width="50%"}
+::: {.column width="10%"}
+:::
+
+::: {.column width="60%" .r-fit-text}
 
 <br>
 <br>
 <br>
-<br>
 
-{{< fa home >}} SARA Institute, Dr. Ambedkar Bhawan, Kakroi Road, Sonipat, Haryana - 131001
+{{< fa mobile-screen >}} &nbsp; 925 315 2024
 
-{{< fa phone >}} 925 315 2024
+{{< fa envelope >}} &nbsp; [sara.institute.info@gmail.com](mailto: sara.institute.info@gmail.com)
 
-{{< fa envelope >}} [sara.institute.info@gmail.com](mailto: sara.institute.info@gmail.com)
+{{< fa globe >}} &nbsp; [https://saraedu.netlify.app/](https://sara-edu.netlify.app/)
 
-{{< fa globe >}} [https://saraedu.netlify.app/](https://sara-edu.netlify.app/)
+Follow SARA on Social Media.<br>[[{{< fa brands twitter >}}]{.clr-black}](https://twitter.com/sara_institute) &nbsp; [@sara_institute](https://twitter.com/sara_institute)
+
+[[{{< fa brands linkedin >}}]{.clr-black}](https://www.linkedin.com/company/sara-institute/) &nbsp; [SARA LinkedIn Page](https://www.linkedin.com/company/sara-institute/)
+
+[[{{< fa brands youtube >}}]{.clr-black}](https://www.youtube.com/@SARADataScience) &nbsp; [@SARADataScience](https://www.youtube.com/@SARADataScience)
+
+[[{{< fa brands facebook >}}]{.clr-black}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [SARA Facebook Page](https://www.facebook.com/profile.php?id=61564043738390)
+
+[[{{< fa brands whatsapp >}}]{.clr-black}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
+&nbsp; [SARA Institute WhatsApp Channel](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
+
+{{< fa location-dot >}} &nbsp; C/O Dr. Ajay Kumar Koli, SARA Institute, Dr. Ambedkar Bhawan, Kakroi Road (near Dayanand Hospital), Sonipat, Haryana - 131001
+
+  
 :::
 
 ::::
 
-
-# {background-image=images/guru-ravidas.jpg background-size=contain background-position=right background-color=#000033}
-
-:::: {.columns}
-
-::: {.column width="50%"}
-[Thank You!]{.r-fit-text}
-:::
-
-::: {.column width="50%"}
-
-:::
-
-::::
+# Thank <br>You! {background-image=images/guru-ravidas.jpg background-size=contain background-position=right}
