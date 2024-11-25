@@ -3,7 +3,7 @@ pagetitle: "SARA"
 
 format: 
   revealjs:
-    slide-number: false
+    slide-number: true
     logo: logo.png
     theme: [default, sara-style.scss]
     progress: true
@@ -15,14 +15,9 @@ format:
     controls: true
 ---
 
-# {background-color="#003262"}
+# [SARA]{.r-fit-text} {background-color="#003262"}
 
-<br>
-
-[SARA]{.r-fit-text}
-
-
-##  {background-image="https://images.unsplash.com/photo-1615715035868-fc94bd5ffdac?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="cover"}
+## {background-image="https://images.unsplash.com/photo-1615715035868-fc94bd5ffdac?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="cover"}
 
 ::: centering
 ::: columns
@@ -52,16 +47,16 @@ format:
 
 ## SARA Education Trust
 
-- A registered charitable education institute in India.
+> A registered charitable education institute in India.
 
 ::: centering
 
-![5 April 2023 -- classes started at the SARA.](images/terra-sara.jpg){width="80%"}
+![5 April 2023 -- first class at the SARA.](images/terra-sara.jpg){width="78%"}
 :::
 
 ## Our Mission 
 
-- To empower underrepresented communities in India by providing data science education.
+> To empower under-represented communities in India through data science education.
 
 ::: {layout-ncol=2 layout-valign="bottom" .centering}
 
@@ -113,21 +108,30 @@ Image source: [Unsplash](https://unsplash.com/)
 ![18 participants attended our five days SARA data science  residential summer school to learn R programming language.](images/summer-school-students-july24.jpeg){fig-align=center}
 
 ::: aside
-Watch a glimpse of it on our [YouTube](https://youtu.be/Yh5GaURxfXA?si=6uFMZmGSBkSC5uxl) channel.
+Watch about it on our [YouTube](https://youtu.be/Yh5GaURxfXA?si=6uFMZmGSBkSC5uxl) channel.
 :::
 
 # Our Next <br>Training  {background-image=images/flyer-winter.png background-position=right background-size="contain"}
 
-# SARA <br>Education <br>Fair {background-image=images/savitrimai-border.png background-position=right background-size="contain"}
+##  {{< fa brands youtube >}} Watch News about SARA
 
-# Data & AI <br>Conference {background-size="contain" background-image=https://images.unsplash.com/photo-1683381660400-d43b7a1cffda?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D background-position=right}
+::: centering
 
-<br>
-<br>
+Our sincere Thanks to the [*News Beak*](https://thenewsbeak.in/) team.
 
-::: aside
-Image source: [Jeffrey Hemsworth](https://images.unsplash.com/photo-1683381660400-d43b7a1cffda?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 :::
+
+{{< video https://youtu.be/c0ZJQSdoWXI?si=HKRjVfOHuJ1zME1b width="100%" height="80%" >}}
+
+## 🎡 Proposed Future Events
+
+<br>
+
+> SARA Education Fair. 
+
+<br>
+
+> Data & AI Conference.    
 
 ## Support SARA {background-image=images/babasaheb.jpg background-size=contain background-position=right}
 
@@ -140,7 +144,7 @@ Image source: [Jeffrey Hemsworth](https://images.unsplash.com/photo-168338166040
 
 - Teach at SARA.
 
-- Donate to SARA.
+- Donate to SARA. [Get Income Tax Rebate!]() Under 80G.
 
   - UPI ID: 919243152024@sbi
 
@@ -180,13 +184,12 @@ Image source: [Jeffrey Hemsworth](https://images.unsplash.com/photo-168338166040
 
 <br>
 <br>
-<br>
 
 {{< fa mobile-screen >}} &nbsp; 925 315 2024
 
 {{< fa envelope >}} &nbsp; [sara.institute.info@gmail.com](mailto: sara.institute.info@gmail.com)
 
-{{< fa globe >}} &nbsp; [https://saraedu.netlify.app/](https://sara-edu.netlify.app/)
+{{< fa globe >}} &nbsp; [SARA Website](https://sara-edu.netlify.app/)
 
 Follow SARA on Social Media.<br>[[{{< fa brands twitter >}}]{.clr-black}](https://twitter.com/sara_institute) &nbsp; [@sara_institute](https://twitter.com/sara_institute)
 
@@ -199,11 +202,18 @@ Follow SARA on Social Media.<br>[[{{< fa brands twitter >}}]{.clr-black}](https:
 [[{{< fa brands whatsapp >}}]{.clr-black}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
 &nbsp; [SARA Institute WhatsApp Channel](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
 
-{{< fa location-dot >}} &nbsp; C/O Dr. Ajay Kumar Koli, SARA Institute, Dr. Ambedkar Bhawan, Kakroi Road (near Dayanand Hospital), Sonipat, Haryana - 131001
+{{< fa location-dot >}} &nbsp; C/O Dr. Ajay Kumar Koli, <br>Executive Director, SARA Institute, <br>Dr. Ambedkar Bhawan, Kakroi Road, <br>Near Dayanand Hospital, <br>Sonipat - 131001, Haryana, India.
 
   
 :::
 
 ::::
 
-# Thank <br>You! {background-image=images/guru-ravidas.jpg background-size=contain background-position=right}
+# Thank <br>You! 🙏🏽 {background-image=images/guru-ravidas.jpg background-size=contain background-position=right}
+
+<br>
+<br>
+
+::: aside
+Dr. Kiran Lata & Dr. Ajay Koli <br>Founders of the SARA Institute.
+:::
